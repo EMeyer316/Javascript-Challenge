@@ -1,1 +1,2 @@
-# Javascript-Challenge
+# 12-JavaScript_Homework
+Javascript Homework
